@@ -1,0 +1,4 @@
+C:/Users/kosie/Desktop/Coding/CLionProjects/SDiZO/cmake-build-debug/CMakeFiles/SDiZO.dir
+C:/Users/kosie/Desktop/Coding/CLionProjects/SDiZO/cmake-build-debug/CMakeFiles/tests.dir
+C:/Users/kosie/Desktop/Coding/CLionProjects/SDiZO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kosie/Desktop/Coding/CLionProjects/SDiZO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
