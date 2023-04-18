@@ -113,7 +113,7 @@ void readFromFile() {
     file.close();
 }
 
-void testTime() {
+void measureTimeComplexity() {
     std::random_device rd; // obtain a random number from hardware
     std::mt19937 gen(rd()); // seed the generator
 
